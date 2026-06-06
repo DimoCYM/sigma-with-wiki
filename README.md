@@ -2,7 +2,7 @@
 
 > 本项目使用AI创作，请仔细甄别
 
-从 [BV1eRR9B2Eie](https://www.bilibili.com/video/BV1eRR9B2Eie/) 照瓢画葫，基于 [Sigma SKILL](https://github.com/sanyuan0704/sanyuan-skills/blob/main/skills/sigma) ，融合了 [llm wiki]([llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)) 知识库。学习者在学习之前，先通过 wiki 流程生产知识库；教学时直接从 wiki 读取相关页面作为教学内容来源；学习过程中沉淀的误解、掌握度等数据再写回 wiki，形成 **知识→教学→沉淀** 的闭环。
+从 [BV1eRR9B2Eie](https://www.bilibili.com/video/BV1eRR9B2Eie/) 照瓢画葫，基于 [Sigma SKILL](https://github.com/sanyuan0704/sanyuan-skills/blob/main/skills/sigma) ，融合了 [llm wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 知识库。学习者在学习之前，先通过 wiki 流程生产知识库；教学时直接从 wiki 读取相关页面作为教学内容来源；学习过程中沉淀的误解、掌握度等数据再写回 wiki，形成 **知识→教学→沉淀** 的闭环。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent_Skill-Wiki_Tutor-blue" alt="Agent Skill" />
