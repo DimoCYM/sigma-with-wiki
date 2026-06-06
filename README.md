@@ -1,9 +1,8 @@
-# Sigma-with-Wiki Tutor
+# Sigma-with-Wiki
 
-> **Wiki Tutor** — 先构建知识库，再用知识库教学。
-> Wiki 是持久化的知识源，Sigma 是教学引擎。
+> 本项目使用AI创作，请仔细甄别
 
-基于 Sigma SKILL，融合了 Karpathy 风格的互链 Markdown 知识库。学习者在学习之前，先通过 wiki 流程生产知识库；教学时直接从 wiki 读取相关页面作为教学内容来源；学习过程中沉淀的误解、掌握度等数据再写回 wiki，形成 **知识→教学→沉淀** 的闭环。
+从 [BV1eRR9B2Eie](https://www.bilibili.com/video/BV1eRR9B2Eie/) 照瓢画葫，基于 [Sigma SKILL](https://github.com/sanyuan0704/sanyuan-skills/blob/main/skills/sigma) ，融合了 [llm wiki]([llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)) 知识库。学习者在学习之前，先通过 wiki 流程生产知识库；教学时直接从 wiki 读取相关页面作为教学内容来源；学习过程中沉淀的误解、掌握度等数据再写回 wiki，形成 **知识→教学→沉淀** 的闭环。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent_Skill-Wiki_Tutor-blue" alt="Agent Skill" />
@@ -155,7 +154,8 @@ cp -r sigma-with-wiki ~/.hermes/skills/
 
 - [Bloom's 2-Sigma Effect (Bloom, 1984)](https://doi.org/10.3102/0013189X013006004)
 - [Karpathy's LLM Wiki Pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
-- [Sigma Tutor（原 skill）](https://github.com/sanyuan0704/sanyuan-skills)
+- [Sigma Tutor（原 skill）](https://github.com/sanyuan0704/sanyuan-skills/blob/main/skills/sigma)
+- [BV1eRR9B2Eie](https://www.bilibili.com/video/BV1eRR9B2Eie/)
 
 ---
 
